@@ -14,12 +14,6 @@
   transition: all 0;
 }
 
-.containerPai {
-  -ms-scroll-snap-type: y mandatory;
-      scroll-snap-type: y mandatory;
-  overflow-y: scroll;
-}
-
 section {
   scroll-behavior: smooth;
   display: flex;
